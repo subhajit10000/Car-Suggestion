@@ -1,4 +1,5 @@
 Project Description: Multi-Category Car Marketplace Website
+
 The proposed project is a responsive, user-centric car marketplace website that showcases vehicles across three distinct powertrain categories: Petrol, Diesel, and Electric Vehicles (EV). The core objective is to simplify the car discovery and comparison process for buyers while giving dealers and manufacturers a modern platform to list inventory with rich, category-specific details.
 
 1. Core Concept and Target Audience:
