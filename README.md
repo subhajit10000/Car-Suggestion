@@ -21,7 +21,6 @@ Dealer and User Dashboards: Verified dealers get an inventory management dashboa
 Content and Tools: The site hosts guides like Petrol vs Diesel vs EV: Which is Right for You, RTO cost calculators, charging station locator for West Bengal, and latest auto news to drive organic traffic.
 
 3. Technical Overview:
-   
 The frontend will be built with React and Next.js for SEO and fast page loads, ensuring the site ranks well for terms like EV cars in Siliguri. Tailwind CSS will enable a clean, mobile first UI. The backend uses Node.js and Express or Django with PostgreSQL to manage listings, users, and leads. Key integrations include Razorpay for booking amounts, Google Maps API for dealer and charging locations, and WhatsApp API for instant lead alerts. Image optimization and lazy loading will keep the site fast even with large inventories.
 
 4. Business and Scalability Goals:
