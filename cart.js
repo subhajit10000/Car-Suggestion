@@ -7,6 +7,7 @@ function populateCart() {
     const totalEl = document.getElementById('total');
     
     cartProductsContainer.innerHTML = '';
+    
 
     let subtotal = 0;
 
