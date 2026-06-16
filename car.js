@@ -1,5 +1,6 @@
 import {car} from './car_details.js'
 
+
 function carCategories() {
     const categoryList = document.getElementById('categoryList');
     const categories = Object.keys(car);
