@@ -74,6 +74,9 @@ function populateCart() {
         cartProductsContainer.appendChild(cartItem);
     });
 
+    const discount = 0;
+    const total = subtotal - discount;
+
 }
 
 document.addEventListener('DOMContentLoaded', populateCart);
