@@ -296,7 +296,7 @@ export const car = {
   ],
   "Premium Car": [
     {
-      id: 41,
+      id: 51,
       model: "Range Rover SV",
       price: "₹ 4.66 Crores",
       description:
@@ -305,7 +305,7 @@ export const car = {
         "https://autonews-mag.com/autocopy/wp-content/uploads/2021/10/range_rover_fan_club_249512228_391966739275474_2604103449226980382_nz45.jpg",
     },
     {
-      id: 42,
+      id: 52,
       model: "Rolls Royce Phantom",
       price: "₹ 10.48 Crores",
       description:
@@ -314,7 +314,7 @@ export const car = {
         "https://www.evoindia.com/evoindia/2022-05/bfe5894f-d29b-48cb-9165-a932ffc91c97/P90462877_highRes_rolls_royce_phantom_.jpg",
     },
     {
-      id: 43,
+      id: 53,
       model: "Land Rover Defender",
       price: "₹ 2.66 Crores",
       description:
@@ -323,7 +323,7 @@ export const car = {
         "https://motoringworld.in/wp-content/uploads/2022/05/NEW-LAND-ROVER-DEFENDER-130.jpg",
     },
     {
-      id: 44,
+      id: 54,
       model: "Toyota Land Cruiser",
       price: "₹ 2.78 Crores",
       description:
@@ -332,7 +332,7 @@ export const car = {
         "https://www.team-bhp.com/forum/attachments/official-new-car-reviews/2863025d1773337362-toyota-land-cruiser-lc300-review-img_6235.jpg",
     },
     {
-      id: 45,
+      id: 55,
       model: "Mercedes Maybach",
       price: "₹ 3.49 Crores",
       description:
@@ -341,7 +341,7 @@ export const car = {
         "https://upload.wikimedia.org/wikipedia/commons/b/be/Mercedes-Maybach_S_580_Z223_black_%284%29.jpg",
     },
     {
-      id: 46,
+      id: 56,
       model: "BMW i8",
       price: "₹ 2.37 Crores",
       description:
@@ -350,7 +350,7 @@ export const car = {
         "https://cimg2.ibsrv.net/ibimg/hgm/1600x900-1/100/439/2015-bmw-i8_100439334.jpg",
     },
     {
-      id: 47,
+      id: 57,
       model: "Ferrari 488",
       price: "₹ 4.40 Crores",
       description:
@@ -359,7 +359,7 @@ export const car = {
         "https://upload.wikimedia.org/wikipedia/commons/0/0d/2018_Ferrari_488_GTB_4.jpg",
     },
     {
-      id: 48,
+      id: 58,
       model: "Lamborghini Revuelto",
       price: "₹ 8.99 Crores",
       description:
