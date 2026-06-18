@@ -1,5 +1,15 @@
 import { cartItems, saveCartItems } from "./cartStore.js";
 
+function convertToLakhs(price) {
+  const value = parseFloat(price.replace(/[^\d.]/g, "")) || 0;
+
+  if (price.toLowerCase().includes("crore")) {
+    return value * 100; 
+  }
+
+  return value;
+}
+
 function populateCart() {
     const cartProductsContainer = document.getElementById('cart-products');
     const subtotalEl = document.getElementById('subtotal');
