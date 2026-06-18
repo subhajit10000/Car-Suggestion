@@ -10,6 +10,14 @@ function convertToLakhs(price) {
   return value;
 }
 
+function formatIndianPrice(valueInLakhs) {
+  if (valueInLakhs >= 100) {
+    return `₹ ${(valueInLakhs / 100).toFixed(2)} Crores`;
+  }
+
+  return `₹ ${valueInLakhs.toFixed(2)} Lakhs`;
+}
+
 function populateCart() {
     const cartProductsContainer = document.getElementById('cart-products');
     const subtotalEl = document.getElementById('subtotal');
