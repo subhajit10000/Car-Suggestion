@@ -77,6 +77,10 @@ function populateCart() {
     const discount = 0;
     const total = subtotal - discount;
 
+    subtotalEl.textContent = formatIndianPrice(subtotal);
+    discountEl.textContent = formatIndianPrice(discount);
+    totalEl.textContent = formatIndianPrice(total);
+
 }
 
 document.addEventListener('DOMContentLoaded', populateCart);
